@@ -29,7 +29,7 @@ check_factor()
 		        num2=$numcp
                 fi
 
-        echo "$num$num1*$num2"
+        echo "$num$num2*$num1"
 }
 
 if [ $# -ne 1 ]
